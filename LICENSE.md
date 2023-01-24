@@ -1,4 +1,4 @@
-This software is licensed under the MIT license:
+	MIT License
 
 	Copyright (c) 2023 Matthias Baur
 
